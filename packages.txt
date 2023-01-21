@@ -1,0 +1,7 @@
+streamlit==1.16.0
+snowflake-connector-python==2.9.0
+pandas==1.4.2
+scipy==1.8.0
+seaborn==0.11.2
+plotly==5.8.0
+plotly-express==0.4.1
